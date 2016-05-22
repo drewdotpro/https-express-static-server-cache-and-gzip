@@ -1,7 +1,7 @@
 {
-  "name": "ui",
+  "name": "https-express-static-server-cache-and-gzip",
   "version": "1.0.0",
-  "description": "",
+  "description": "HTTPS Express Static Server with Cache and GZIP",
   "main": "app.js",
   "scripts": {
     "dev": "NODE_ENV=development node app.js",
