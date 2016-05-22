@@ -2,7 +2,7 @@
     'use strict';
     module.exports = {
         server: {
-            host: 'localhost', //host
+            host: 'localhost', //host we are on (used if listen is not set)
             port: 8080, //port to listen on
             https: {
                 key: '/etc/ssl/private/ssl-cert-snakeoil.key', //your SSL private key
