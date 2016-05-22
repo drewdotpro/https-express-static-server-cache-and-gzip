@@ -30,6 +30,16 @@ Logging comes from Winston and logs to a file and the console.
 
 ## Usage
 
+Clone the repo:
+```
+git clone https://github.com/drewdotpro/https-express-static-server-cache-and-gzip.git
+```
+Install NPM dependencies
+```
+npm install
+```
+Add your files to `public`
+
 Server will work out-of-the-box on Ubuntu in development mode, and HTTPS deliver your files from the `public` folder.
 ```
 npm run dev
